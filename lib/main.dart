@@ -510,6 +510,7 @@ Cost and Size: Microcontrollers are often smaller and more cost-effective compar
 Both microcontrollers and microprocessors play significant roles in the advancement of technology, catering to a wide array of applications and tasks in different domains. They differ in their design, use cases, and integration, making each suitable for specific purposes.
 """];
 
+
 List powerdistribution=["""1. Power Generation:
 
 Power Plants: Different types, including coal, natural gas, nuclear, hydroelectric, wind, solar, and geothermal plants, generate electricity.
