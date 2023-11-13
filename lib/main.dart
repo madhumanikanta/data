@@ -435,6 +435,7 @@ Soft Starters and Inverters: Devices used for smooth starting and controlling mo
 
 Electric machines play a fundamental role in various industries, from power generation and distribution to industrial machinery and transportation. Their design, efficiency, and control mechanisms continue to evolve with advancements in technology and demand for more efficient and sustainable solutions."""];
 
+
 List  Electromagnetic=["""1. Electromagnetic Fields:
 
 Electric Fields and Magnetic Fields: These fields are intertwined and propagate in space, influencing each other. When they change, they generate electromagnetic waves.
