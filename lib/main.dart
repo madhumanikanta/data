@@ -28,6 +28,7 @@ DC Circuits:
 
 """];
 
+
 List Electrical=["""1. Types of Electric Vehicles:
 
 Battery Electric Vehicles (BEVs): These vehicles are powered solely by electric batteries and rely entirely on electricity for operation, producing zero tailpipe emissions.
