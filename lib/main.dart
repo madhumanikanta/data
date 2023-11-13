@@ -476,6 +476,7 @@ Regulations: Various organizations and governments have established safety stand
 Understanding electromagnetic fields and waves is crucial for a wide range of modern technologies and applications. It's essential to balance the benefits with considerations for safety and regulation in their use.
 """];
 
+
 List microcontroller=["""1. Microcontroller:
 
 Definition: A compact integrated circuit that includes a processor core, memory, and input/output peripherals. It's designed for embedded systems and specific tasks.
