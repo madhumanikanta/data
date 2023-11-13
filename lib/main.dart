@@ -1,6 +1,4 @@
 
-
-
 List ac=["""  DC Circuit: Direct Current (DC) is a type of electrical current that flows in one direction. In a DC circuit, the voltage remains constant over time. Batteries and solar cells are common sources of DC power. Components in a DC circuit include resistors, capacitors, inductors, and power sources like batteries or DC power supplies.
 AC Circuit: Alternating Current (AC) periodically changes direction, typically following a sinusoidal waveform. It's the type of electrical current delivered to homes and businesses. AC circuits involve components like resistors, capacitors, inductors, and sources like generators. AC voltage and current continually alternate between positive and negative values over time.
 Both types of circuits have their unique characteristics and applications. For instance, DC is often used in electronics where a constant voltage is required, while AC is preferred for long-distance power transmission due to its ability to change voltages easily using transformers.
@@ -509,7 +507,6 @@ Cost and Size: Microcontrollers are often smaller and more cost-effective compar
 
 Both microcontrollers and microprocessors play significant roles in the advancement of technology, catering to a wide array of applications and tasks in different domains. They differ in their design, use cases, and integration, making each suitable for specific purposes.
 """];
-
 
 List powerdistribution=["""1. Power Generation:
 
